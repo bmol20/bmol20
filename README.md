@@ -1,7 +1,7 @@
 # 🦾 Olá! Eu sou [Bruno Márcio] ⚙️
-
+<!--
 **bmol20/bmol20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 🎓 Técnico em Mecatrônica | 👨‍💻 Estudante de Programação | 🚀 Apaixonado novas tecnologias
 
 ---
