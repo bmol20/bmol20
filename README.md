@@ -42,7 +42,7 @@ Sempre fui movido por desafios e apaixonado por aprender e estou determinado a c
 ##
 <p align="center">
 <a href="https://github.com/bmol20">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bmol20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bmol20&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bmol20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bmol20&hide_progress=true&theme=algolia"/>
 </a>
 </p>
